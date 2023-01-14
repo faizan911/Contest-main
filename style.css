@@ -1,0 +1,107 @@
+body{
+    width: 1280px;
+    height: 600px;
+    background-color: black;
+}
+.heading{
+    position: absolute;
+    width: 182px;
+    height: 29px;
+    left: 58px;
+    top: 26px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+}
+.name{
+    position: absolute;
+    width: 119px;
+    height: 25px;
+    left: 58px;
+    top: 103px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: white;
+}
+.profession{
+    position: absolute;
+    width: 157px;
+    height: 25px;
+    left: 403px;
+    top: 103px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: white;
+}
+.age{
+    position: absolute;
+    width: 157px;
+    height: 25px;
+    left: 753px;
+    top: 103px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: white;
+}
+.a{
+    box-sizing: border-box;
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    left: 58px;
+    top: 173px;
+    border: 1px solid #FFFF;
+}
+.b{
+    box-sizing: border-box;
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    left: 403px;
+    top: 173px;
+    border: 1px solid #FFFF;
+}.c{
+    box-sizing: border-box;
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    left: 753px;
+    top: 173px;
+    border: 1px solid #FFFF;
+}.button{
+    position: absolute;
+    width: 176px;
+    height: 38px;
+    left: 58px;
+    top: 258px;
+    cursor: pointer;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}.addedhead{
+    position: absolute;
+    width: 205px;
+    height: 29px;
+    left: 58px;
+    top: 408px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFF;
+}
+.e{
+    position: absolute;
+    width: 881px;
+    height: 29px;
+    left: 58px;
+    top: 333px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+}
